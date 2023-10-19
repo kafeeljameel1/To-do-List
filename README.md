@@ -1,6 +1,6 @@
-# final_project
+# A to-do List Project.
 
-A new Flutter project.
+A flutter project for creating a to-do List application.
 
 ## Getting Started
 
